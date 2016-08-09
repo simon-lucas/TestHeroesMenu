@@ -1,0 +1,1 @@
+﻿package TestHeroesMenu {		import flash.display.MovieClip;			public class MenuLetter extends MovieClip {				public var letter:String		public function MenuLetter() {			// constructor code		}	}	}
